@@ -1,34 +1,4 @@
- Conversation opened. 2 messages. All messages read.
 
-Skip to content
-Using Gmail with screen readers
-3 of 2,887
-hii
-Inbox
-
-Agarshal
-Attachments
-9:25 AM (34 minutes ago)
- 
-
-Kirthick Kumar <kirthickkumarnj15@gmail.com>
-Attachments
-9:32 AM (27 minutes ago)
-to Abinaya
-
-
-
----------- Forwarded message ---------
-From: Agarshal <agarshalgaming@gmail.com>
-Date: Wed, Feb 18, 2026 at 9:25 AM
-Subject: hii
-To: Kirthick Kumar <kirthickkumarnj15@gmail.com>, Akalya <akalyaganesan2006@gmail.com>
-
-
-
-
- 4 Attachments
-  •  Scanned by Gmail
 import cv2
 import numpy as np
 
