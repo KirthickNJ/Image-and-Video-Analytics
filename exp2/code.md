@@ -28,3 +28,5 @@ full_img = concatenate4(split_img[0],split_img[1],split_img[2],split_img[3])
 plt.figure()
 plt.imshow(full_img)
 plt.show()
+
+<img width="405" height="475" alt="Screenshot 2026-02-18 092154" src="https://github.com/user-attachments/assets/958154a1-fd1c-4bbf-97ce-398333565dbb" />
