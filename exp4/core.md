@@ -32,3 +32,8 @@ for box in results[0].boxes:
     confidence = float(box.conf[0])
     label = model.names[class_id]
     print(f"Object: {label}, Confidence: {confidence:.2f}")
+
+
+
+    <img width="729" height="668" alt="Screenshot 2026-03-04 093212" src="https://github.com/user-attachments/assets/5f55966c-361e-4bd6-8da7-facad4a3ed74" />
+
